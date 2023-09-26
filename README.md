@@ -2,33 +2,7 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-
-  YouTube Video: https://www.youtube.com/watch?v=lh_KedsVuQ0
+YouTube Video: https://www.youtube.com/watch?v=lh_KedsVuQ0
 
 ![Main](https://github.com/YushG/AdaptiveLearning/assets/13268822/79e4e8d2-23e3-4ace-a1e0-e0ccd78a2132)
   
